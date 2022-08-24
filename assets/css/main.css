@@ -3314,3 +3314,11 @@ input, select, textarea {
 			}
 
 	}
+
+/* ----- Additions to HTML5UP CSS below ---------------------------------------*/
+
+/*Google Map with restaurant locations */
+#map {
+	width: 100%;
+	height: 480px;
+}
