@@ -2650,38 +2650,38 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
-/* Features */
+/* restaurants */
 
-	.features article {
+	.restaurants article {
 		border-top: solid 3px #f4f4f4;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
 
-		.features article:first-child {
+		.restaurants article:first-child {
 			border-top: 0;
 			padding-top: 0;
 		}
 
-		.features article .image {
+		.restaurants article .image {
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
 			width: 48%;
 		}
 
-			.features article .image img {
+			.restaurants article .image img {
 				display: block;
 				width: 100%;
 			}
 
-		.features article .inner {
+		.restaurants article .inner {
 			display: inline-block;
 			vertical-align: middle;
 			width: 50%;
 		}
 
-			.features article .inner > :last-child {
+			.restaurants article .inner > :last-child {
 				margin-bottom: 0;
 			}
 
@@ -3160,16 +3160,16 @@ input, select, textarea {
 					font-size: 1.5em;
 				}
 
-		/* Features */
+		/* restaurants */
 
-			.features article .image {
+			.restaurants article .image {
 				display: block;
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
 				width: 100%;
 			}
 
-			.features article .inner {
+			.restaurants article .inner {
 				display: block;
 				width: 100%;
 			}
